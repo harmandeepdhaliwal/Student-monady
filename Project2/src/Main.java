@@ -9,6 +9,9 @@ public class Main {
 		Info s2= new Info("Amitoj",25,"male");
 		s2.displayinfo();
 		
+		Info s3= new Info("Arsh",29,"female");
+		s3.displayinfo();
+		
 		
 
 	}
